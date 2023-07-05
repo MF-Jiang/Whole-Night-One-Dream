@@ -24,7 +24,26 @@ In the process of communicating with parents, I was comforted and comforted.\
 
 The game will allow players to interact with the NPC in the game, so as to relieve the players 'psychological burden, solve negative emotions, and learn to correctly deal with common problems of teenagers such as depression and bullying.\
 该游戏将让玩家与游戏内NPC产生交互，达到舒缓玩家心理负担，排解消极情绪，学会正确对待抑郁、霸凌等青少年常见问题的效果。
- 
+
+ <table>
+  <tr>
+    <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg" alt="1" width="400px">
+    </td>
+    <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg" alt="2" width="400px">
+    </td>
+   <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg" alt="3" width="400px">
+    </td>
+    <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk3LmpwZw==/347x500/aoCYzv.jpg" alt="4" width="400px">
+    </td>
+   <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAxLmpwZw==/347x500/3d3yQV.jpg" alt="5" width="400px">
+    </td>
+  </tr>
+</table>
 
 ![游戏0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg)
 ![图片0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg)
