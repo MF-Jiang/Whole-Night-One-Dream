@@ -45,11 +45,20 @@ The game will allow players to interact with the NPC in the game, so as to relie
   </tr>
 </table>
 
-![游戏0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg)
-![图片0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg)
-![游戏1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg)
-![图片1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk3LmpwZw==/347x500/aoCYzv.jpg)
-![游戏](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAxLmpwZw==/347x500/3d3yQV.jpg)
+<div>
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg" alt="游戏0" style="max-width: 200px; display: inline-block; margin: 10px;">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg" alt="图片0" style="max-width: 200px; display: inline-block; margin: 10px;">
+</div>
+
+<div>
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg" alt="游戏1" style="max-width: 200px; display: inline-block; margin: 10px;">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk3LmpwZw==/347x500/aoCYzv.jpg" alt="图片1" style="max-width: 200px; display: inline-block; margin: 10px;">
+</div>
+
+<div>
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAxLmpwZw==/347x500/3d3yQV.jpg" alt="游戏" style="max-width: 200px; display: inline-block; margin: 10px;">
+</div>
+
 
 
 
