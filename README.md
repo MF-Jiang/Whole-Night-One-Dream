@@ -45,15 +45,6 @@ The game will allow players to interact with the NPC in the game, so as to relie
   </tr>
 </table>
 
-<!-- 设置图片大小的样式 -->
-<style>
-  .image {
-    width: 300px; /* 设置图片的宽度 */
-    height: auto; /* 自动调整高度以保持图片比例 */
-  }
-</style>
-
-<!-- 插入图片 -->
 ![游戏0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg){: .image}
 ![图片0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg){: .image}
 ![游戏1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg){: .image}
