@@ -27,8 +27,11 @@ The game will allow players to interact with the NPC in the game, so as to relie
 该游戏将让玩家与游戏内NPC产生交互，达到舒缓玩家心理负担，排解消极情绪，学会正确对待抑郁、霸凌等青少年常见问题的效果。
 
 
-| ![游戏0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg) | ![图片0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg) | ![游戏1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg) | ![图片1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk3LmpwZw==/347x500/aoCYzv.jpg) | ![游戏](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAxLmpwZw==/347x500/3d3yQV.jpg) |
-| --- | --- | --- | --- | --- |
+| ![游戏0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAwLmpwZw==/original/eEnjqs.jpg) | ![图片0](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk5LmpwZw==/original/HwwCd6.jpg) |
+| --- | --- |
+
+| ![游戏1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk4LmpwZw==/347x500/RZ3x%2F2.jpg) | ![图片1](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyNzk3LmpwZw==/347x500/aoCYzv.jpg) | ![游戏](https://img.itch.zone/aW1hZ2UvMTY1MjQxNy85NzIyODAxLmpwZw==/347x500/3d3yQV.jpg) |
+| --- | --- | --- |
 
 
 
